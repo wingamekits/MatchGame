@@ -3,7 +3,6 @@
 ###Author(s): Jim O'Neil
 ###Date: 9.16.2013
 ###Version: v1.0.0
-###Author(s): Jim O'Neil
 ###URL: https://github.com/wingamekits/MatchGame
 
 ----------
